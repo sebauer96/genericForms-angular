@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "tablesGeneric": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tablesGeneric"
+    }
+  },
+  "defaultProject": "tablesGeneric",
+  "cli": {
+    "analytics": "c7d8bd30-e3ce-4a17-abb6-5db9796e9be9"
+  }
 }
